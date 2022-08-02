@@ -83,6 +83,8 @@ function call_questions(){
 
 call_questions();
 
+module.exports = Co_info;
+
 
 
 

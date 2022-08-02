@@ -52,10 +52,10 @@ function add_team(team){
                   <td>${team.id}</td> 
               </tr>
               <tr>
-              <a href="${team.email}">${team.email}</a>
+                  <td> <a href="${team.email}">${team.email}</a> </td>
               </tr>
               <tr>
-              <a href="https://github.com/${team.github}">${team.github}</a>
+                  <td> <a href="https://github.com/${team.github}">${team.github}</a> </td>
               </tr>
           </thead>
       </table>
